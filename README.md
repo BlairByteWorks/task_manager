@@ -5,12 +5,19 @@ Project Overview
 A modular task management application built using JavaScript ES6 modules, classes, and object-oriented programming principles. The application demonstrates modern web development practices with a clean, colorful user interface.
 
 Features
+
 •	Add, complete and delete tasks
+
 •	Colorful gradient design with smooth animations
+
 •	Filter tasks by status (All, Active, Completed)
+
 •	Real-time task statistics
+
 •	In-memory data persistence during session
+
 •	Responsive design for all devices
+
 
 Technologies Used
 •	HTML5 - Semantic markup structure
